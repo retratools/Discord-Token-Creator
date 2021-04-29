@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Discord Token Creator", "Discord Token Creator\Discord Token Creator.csproj", "{42D36C88-9AF9-450D-B304-5B075DDC9AE5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{42D36C88-9AF9-450D-B304-5B075DDC9AE5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42D36C88-9AF9-450D-B304-5B075DDC9AE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42D36C88-9AF9-450D-B304-5B075DDC9AE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42D36C88-9AF9-450D-B304-5B075DDC9AE5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0E34C8C5-DA20-43E6-8539-DED81E89DF63}
+	EndGlobalSection
+EndGlobal
